@@ -50,6 +50,7 @@ DEFAULT_PACKAGES.router:=\
 	ppp-mod-pppoe
 # For easy usage
 DEFAULT_PACKAGES.tweak:=\
+	block-mount \
 	default-settings-chn \
 	kmod-ipt-raw \
 	kmod-nf-nathelper \
