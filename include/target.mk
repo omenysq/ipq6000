@@ -56,10 +56,8 @@ DEFAULT_PACKAGES.tweak:=\
 	kmod-nf-nathelper \
 	kmod-nf-nathelper-extra \
 	luci \
-	luci-app-autoreboot \
 	luci-app-cpufreq \
 	luci-app-filetransfer \
-	luci-app-ramfree \
 	luci-app-turboacc \
 	luci-lib-fs \
 	luci-lib-ipkg
