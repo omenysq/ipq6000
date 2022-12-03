@@ -9,7 +9,8 @@
  */
 
 #include "qcom-ipq6018-cmiot.dtsi"
-
+#include "qcom-ipq6018-rpm-regulator.dtsi"
+#include "qcom-ipq6018-cpr-regulator.dtsi"
 / {
 	model = "ZN M2";
 	compatible = "zn,m2", "qcom,ipq6018";
