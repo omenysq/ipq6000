@@ -72,10 +72,8 @@
 	};
 };
 
-&qusb_phy_0 {
-	status = "ok";
-};
-
-&usb3 {
-	status = "ok";
+&usb_0 {
+	pinctrl-0 = <&usb_vbus_pins &usb_cc_pins>;
+	pinctrl-names = "default";
+	status = "okay";
 };
